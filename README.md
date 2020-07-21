@@ -9,6 +9,7 @@ In this repository, we gather several kinds of music data belonging to the same 
 2. Create a folder named `midi_files` and put in all the midi files as training data.
 3. Train the LSTM network with [LSTM-midi-net.py](#) and obtain the weights stored as filename called `weights-hdf5`.
 4. Generate single track midi track with [LSTM-midi-predict.py](#) and the midi file will be save to `test_output-mid`.
-5. Import the midi files into DAW such as CUBASE(Windows) of LOGIC(OS X) for adding sofware instrunments and export MP3 music files.
+5. Import the midi files into DAW such as CUBASE (Windows) of LOGIC (OS X) for adding sofware instrunments and export MP3 music files.
 
-##LSTM Network Model
+## LSTM Network Model
+
