@@ -11,7 +11,5 @@ In this repository, we gather several kinds of music data belonging to the same 
 4. Generate single track midi track with [LSTM-midi-predict.py](#) and the midi file will be save to `test_output-mid`.
 5. Import the midi files into DAW such as CUBASE (Windows) of LOGIC (OS X) for adding sofware instrunments and export MP3 music files.
 
-![image](png/Multi-track music generation.png)
-
 ## LSTM Network Model
 
