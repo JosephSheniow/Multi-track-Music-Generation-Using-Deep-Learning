@@ -1,5 +1,5 @@
 # Multi-track-Music-Generation-Using-Deep-Learning
-> (LSTM neural network application using Keras)
+> LSTM neural network application using Keras
 
 In this repository, we gather several kinds of music data belonging to the same music genre, and use Long Short-Term Memory(LSTM) model for training our digital music data, which is recorded in Musical Instrument Digital Interface(MIDI) format. The purpose of this experiment is to build an efficiency training model for single music track and multi music tracks.
 ## Getting Started
