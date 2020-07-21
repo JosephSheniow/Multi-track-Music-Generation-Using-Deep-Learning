@@ -17,7 +17,6 @@ In this repository, we gather several kinds of music data belonging to the same 
 
 ## LSTM Network Model
 
-
 ![image](https://github.com/JosephSheniow/Multi-track-Music-Generation-Using-Deep-Learning/blob/master/image/LSTM-Network-Model.png)
 
 ## Music Generation Flow
